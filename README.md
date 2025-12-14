@@ -7,6 +7,7 @@ At a high level, my work revolves around three connected questions:
 - How is attention allocated on constrained environments?
 - How do humans make decisions when uncertainty is low but cognitive load is high?
 - How do subtle changes in task structure, feedback or information presentation alter behaviour and performance?
+
 These questions show up everywhere but they're often addressed intuitively rather than systematically. I'm interested in making them explicit, testable, and actionable. 
 
 # What I am particularly good at
@@ -17,9 +18,10 @@ I tend to create the most value where things are fuzzy:
 - Stress-testing assumptions about how people should behave compared to how they actually do
   I'm drawn to problems where performance matters more than explanation and when the gap between research and application is the bottleneck.
 
-# Current Focus
+# My current focus
 I am currently developing a larger project around how structured information, feedback timing, and attentional constraints shape performance outcomes, even when the task itself is unchanged.
 This work is intended to be directly relevant to neuro-performance, behavioural assessment and applied cognitive technology.
+
 The goal is to:
 - Model these effects
 - Visualise them clearly
