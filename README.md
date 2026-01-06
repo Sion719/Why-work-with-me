@@ -11,6 +11,7 @@ My strength is operating in that middle layer.
 
 # How I stand out
 I'm not trying to be an academic researcher or a data engineer, instead, I sit in-between disciplines.
+
 My background in psychology with cognitive neuroscience gives me strong intuition for:
 - Attention & Perception
 - Decision heuristics
