@@ -1,5 +1,5 @@
 # Why work with me
-I work at the intersection of cognition, neuroscience, and performance. My specific focus is on how humans allocate attention and make decisions under certainty, and how small changes in information structure reliably change outcoes.
+I work at the intersection of cognition, neuroscience, and performance. My specific focus is on how humans allocate attention and make decisions under certainty, and how small changes in information structure reliably change outcomes.
 My interest is not in abstract theory alone, but in translating cognitive principles into measurable, applied systems: models, analyses, and tools that reveal why people perform the way they do and how performance can be improved. I'm particularly interested in teams where bridging gaps between data, science, and decision-makers creates real leverage.
 
 # How I add value
@@ -15,6 +15,7 @@ My background in psychology with cognitive neuroscience gives me strong intuitio
 - Attention & Perception
 - Decision heuristics
 - Behavioural variability & Noise
+
 My applied data training allows me to:
 - Work directly with real-world datasets
 - Test hypotheses rather than just describe trends
